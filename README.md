@@ -1,76 +1,61 @@
-☁ Jaspreet | Cloud & DevOps Engineer Portfolio
-Overview
-This repository hosts the source code for my professional portfolio website, designed to showcase my expertise and projects in Cloud Computing and DevOps Engineering.
+# 🌐 My Portfolio Website  
 
-The portfolio is built as a single-page application, focusing on responsive design, modern front-end practices, and clear presentation of my technical skills and career trajectory in infrastructure automation and cloud deployment.
+This is a personal **Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and achievements in **Cloud Engineering & DevOps**.  
 
-🚀 Key Features
-Responsive Design: Fully adaptive layout ensures optimal viewing on all devices (mobile, tablet, desktop).
+---
 
-Skill Showcase: Dedicated section highlighting proficiency in AWS, Azure, Docker, Jenkins, Linux, and more.
+## 🚀 Features  
+- Responsive design for desktop and mobile  
+- Clean and modern UI  
+- Sections for:
+  - 👨‍💻 About Me  
+  - 📂 Projects  
+  - 🎓 Certifications & Workshops  
+  - 📞 Contact Information  
 
-Project Spotlight: Detailed cards outlining key projects, including a Three-Tier Application Deployment and the Finan Smart AI Tool.
+---
 
-Interactive UI: Utilizes CSS transitions and JavaScript for subtle scroll-reveal animations and a dynamic typing effect on the hero banner.
+## 🛠️ Technologies Used  
+- **HTML5** – Structure  
+- **CSS3 / Tailwind CSS** – Styling  
+- **JavaScript** – Interactivity  
+- **GitHub Pages / Hosting** – Deployment  
 
-Modern Styling: Styled using Tailwind CSS for rapid, utility-first development and an aesthetically pleasing, professional dark theme.
+---
 
-🛠 Technology Stack
-This project is a static HTML/CSS/JS application, designed for easy deployment on various cloud hosting solutions.
+## 📸 Screenshots  
+(Add screenshots of your portfolio here if possible)  
 
-Category
+---
 
-Technologies Used
+## 📂 Project Structure  
+📁 My-Portfolio
+┣ 📂 assets
+┃ ┣ 📂 images
+┃ ┣ 📂 css
+┃ ┣ 📂 js
+┣ 📜 index.html
+┣ 📜 README.md
 
-Front-end
+yaml
 
-HTML5, Tailwind CSS, Vanilla JavaScript (ES6+)
 
-Styling
+---
 
-Custom CSS (for animations), Tailwind CSS
+## 🔗 Live Demo  
+👉 [View Portfolio](https://jaspreetpanchhat1929.github.io/my-portfolio-latest/)  
 
-Tools
+---
 
-Git, GitHub
+## 🧑‍💻 Author  
+**Jaspreet**  
+- 🌍 Cloud & DevOps Enthusiast  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jaspreet-23b787256)  
+- 💻 [GitHub](https://github.com/jaspreetpanchhat1929)
+- 🔗 [email](jaspreetpanchhat31879@gmail.com)
+  📧 [Email]: (jaspreetpanchhat31879@gmail.com)
+- 📱 [Phone]: (9779146307) 
 
-⚙ Deployment & Setup (For Local Testing)
-Since this is a single, self-contained HTML file, setting it up is very straightforward.
+---
 
-Prerequisites
-You only need a modern web browser (Chrome, Firefox, Edge, etc.).
-
-Local Setup
-Clone the Repository:
-
-git clone [https://github.com/yourusername/portfolio-repo.git](https://github.com/yourusername/portfolio-repo.git)
-cd portfolio-repo
-
-Open the File:
-Simply double-click the index.html file in your file explorer. Your default web browser will open the portfolio automatically.
-
-🗺 Project Structure
-The project uses a monolithic single-file structure for simplicity and ease of deployment.
-
-File
-
-Description
-
-index.html
-
-The single file containing all the HTML structure, Custom CSS (in <style> tags), Tailwind CSS integration, and all JavaScript logic (in <script> tags).
-
-jason.jpeg
-
-The profile image used in the Hero section.
-
-🤝 Contact
-Feel free to reach out if you have any questions, want to discuss a project, or are looking to connect regarding Cloud or DevOps opportunities.
-
-Email: jaspreetpanchhat31879@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/jaspreet-23b787256
-
-Phone: +91 9779146307
-
-Built with passion for scalable infrastructure and clean code.
+⭐ If you like this project, don’t forget to **star the repo**!
