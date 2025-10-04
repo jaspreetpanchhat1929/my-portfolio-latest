@@ -24,7 +24,13 @@ This is a personal **Portfolio Website** built using **HTML, CSS, and JavaScript
 ---
 
 ## 📸 Screenshots  
-(Add screenshots of your portfolio here if possible)  
+<img width="1600" height="769" alt="image" src="https://github.com/user-attachments/assets/6d22b86c-59f3-41fd-a57b-72278b1e4c5a" />
+<img width="1600" height="699" alt="image" src="https://github.com/user-attachments/assets/c15e28df-becb-42de-90e8-951814261b51" />
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/f66980ee-f3de-4c79-a5ce-a28c18d7c896" />
+
+
+
+  
 
 ---
 
