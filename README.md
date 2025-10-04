@@ -50,7 +50,7 @@ yaml
 ## 🧑‍💻 Author  
 **Jaspreet**  
 - 🌍 Cloud & DevOps Enthusiast  
-- 🔗 [LinkedIn](linkedin.com/in/jaspreet-cloudarchitect)  
+- 🔗 [LinkedIn](www.linkedin.com/in/jaspreet-cloudarchitect)  
 - 💻 [GitHub](https://github.com/jaspreetpanchhat1929)
 - 🔗 [email](jaspreetpanchhat31879@gmail.com)
   📧 [Email]: (jaspreetpanchhat31879@gmail.com)
